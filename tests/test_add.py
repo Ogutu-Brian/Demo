@@ -1,4 +1,4 @@
-from demo.add import add
+from Demo.demo.add import add
 from unittest import TestCase
 
 class TestAdd(TestCase):
