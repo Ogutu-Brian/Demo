@@ -22,7 +22,3 @@ pycodestyle==2.4.0
 PyJWT==1.4.2
 pylint==2.2.2
 pytest==4.0.2
-six==1.11.0
-Werkzeug==0.14.1
-wrapt==1.10.11
-xlrd==1.2.0
